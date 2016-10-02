@@ -4,3 +4,4 @@ print('something different from goodbye')
 print('something different from newcode')
 ###o####
 #########
+print('hello my dear friend')
