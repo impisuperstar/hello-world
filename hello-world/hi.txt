@@ -2,7 +2,7 @@ print("hi";)
 print('hi do you do';)
 print('something different from goodbye';)
 print('something different from newcode';)
-###o####
-#########
 print('hello my dear friend')
 print('diff from origin')
+print('something diff from hello2_adv')
+print('something diff from hello2.adv.2')
